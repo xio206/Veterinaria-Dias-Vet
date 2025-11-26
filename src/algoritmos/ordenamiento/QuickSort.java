@@ -1,4 +1,4 @@
-package algoritmos;
+package algoritmos.ordenamiento;
 
 import java.util.List;
 import modelos.Cliente; // Ejemplo de uso con un modelo

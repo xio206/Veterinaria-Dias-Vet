@@ -1,4 +1,4 @@
-package algoritmos;
+package algoritmos.lineales;
 
 /**
  * Implementación de una Lista Doblemente Enlazada genérica.

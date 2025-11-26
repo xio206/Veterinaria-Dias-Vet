@@ -1,6 +1,6 @@
 package controladores;
 
-import algoritmos.ListaDoble; // Usamos nuestra implementación!
+import algoritmos.lineales.ListaDoble; // Usamos nuestra implementación!
 import controladores.comandos.Command;
 import controladores.comandos.Command;
 

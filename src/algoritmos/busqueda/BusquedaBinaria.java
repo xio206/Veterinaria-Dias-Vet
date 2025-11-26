@@ -1,4 +1,4 @@
-package algoritmos;
+package algoritmos.busqueda;
 
 import java.util.Collections;
 import java.util.Comparator;

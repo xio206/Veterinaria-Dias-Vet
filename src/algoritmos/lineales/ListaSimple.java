@@ -1,4 +1,4 @@
-package algoritmos;
+package algoritmos.lineales;
 
 /**
  * Implementación de una Lista Enlazada Simple genérica.

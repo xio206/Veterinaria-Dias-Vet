@@ -1,4 +1,4 @@
-package algoritmos;
+package algoritmos.recursividad;
 
 /**
  * Clase que contiene ejemplos de algoritmos recursivos clásicos.
