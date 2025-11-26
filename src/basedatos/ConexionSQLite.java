@@ -12,8 +12,7 @@ import java.sql.Statement;
 
 public class ConexionSQLite {
 
-  //  private static final String URL = "jdbc:sqlite:veterinaria_dias_vet.db";
-    private static final String URL = "jdbc:sqlite:C:\\Users\\XIOMARA\\OneDrive\\Documentos\\NetBeansProjects\\Main\\veterinaria_dias_vet.db";
+    private static final String URL = "jdbc:sqlite:veterinaria_dias_vet.db";
 
     /**
      * Establece una conexión con la base de datos.
@@ -79,4 +78,5 @@ public class ConexionSQLite {
                 System.err.println("Error al inicializar la base de datos: " + e.getMessage());
         }
     }
+    
 }
